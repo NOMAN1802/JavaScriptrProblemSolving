@@ -10,6 +10,3 @@ function findTwoNumbersWithSum(sortedArr, target) {
   const sortedArray = [1, 3, 6, 8, 11, 15];
   const targetValue = 9;
   console.log(findTwoNumbersWithSum(sortedArray, targetValue));  
-//   emtiakbob@gmail.com
-//   Emtiaz
-//   123456789A
